@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moguelor/data-structures-ts.git",
+  "author": "Jose Obed Moguel Ruiz <jmoguelruiz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.14",
+    "babel-jest": "^26.5.0",
+    "jest": "^26.5.0",
+    "ts-jest": "^26.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.10.4",
+    "typescript": "^4.0.3"
+  }
+}
